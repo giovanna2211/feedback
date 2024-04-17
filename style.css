@@ -79,13 +79,13 @@ body{
     transition: all ease-in-out 0.3s;
 }
 
-.botoes a:hover{
+.botoes button:hover{
     color: var(--white);
     background-color: var(--orange);
     cursor: pointer;
 }
 
-.botoes a:focus{
+.botoes button:focus{
     color: var(--white);
     background: var(--light-grey);
 }
